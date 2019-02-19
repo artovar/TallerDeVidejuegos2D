@@ -1,9 +1,13 @@
-﻿using System.Collections;
+﻿  using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class CharacterMovement : MonoBehaviour {
+
+    //fasfsajfsaf
+    //xddddd
+    // yo era programador xq me exas
 
     [Header("Movement")]
     public float walkSpeed = 1f;
